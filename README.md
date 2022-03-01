@@ -1,16 +1,20 @@
-### Hi there 👋
+### G'day mate !! How's it going ? 👋
 
-<!--
-**Iftakharalamrizve/Iftakharalamrizve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/Iftakhar_Alam_-blue?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iftakhar-alam-rizve-7aa151209/)](https://www.linkedin.com/in/iftakhar-alam-rizve-7aa151209/)
+[![Gmail Badge](https://img.shields.io/badge/-Contact_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iftakharalam1100@gmail.com)](mailto:iftakharalam1100@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hammer: :wrench: **Some Projects that I have built:** :point_down:
+
+<a href="#">
+<!--   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png">  -->
+<a/>
+
+
+<br/>
+
+:page_with_curl: :pencil2: **Latest Medium article written by me:** :point_down:
+
+<a href="#">
+<!--   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/medium.png">  -->
+<a/>
