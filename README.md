@@ -5,6 +5,6 @@
 
 ## My CV/Resume:
 
-You can see and download the pdf copy of my latest resume from below  👇
+You can see and download the pdf copy of my latest resume from below .
 
 - [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
